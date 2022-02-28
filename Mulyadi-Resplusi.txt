@@ -3,6 +3,7 @@ Mulyadi Resplusi
 - Menguasi bahasa pemrograman Javascript
   * js ES6
 -menguasai framwork javascrip
-  * React
   * vue
 -menguasai VCS
+ * GITHUB
+ *GITLAB
